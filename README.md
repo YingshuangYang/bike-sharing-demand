@@ -22,7 +22,7 @@ This project aims to predict the demand for bike-sharing systems using machine l
 
 - **Notebooks**: Contains the Google Colab notebooks for analysis and model training(bike_sharing_demand.ipynb).
 - **Dataset**: For training and testing(train.csv and test.csv).
-- **Final Report**: A comprehensive summary of the project(Proposal Bike Sharing Demand.pdf).
+- **Final Report**: A comprehensive summary of the project(Project report.pdf).
 
 ## Setup
 
